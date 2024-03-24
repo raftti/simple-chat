@@ -10,4 +10,3 @@ A simple React example using a Nodejs backend with Socket.io Connection. And Tai
   - express
   - socket.io
 - React
-- [ngrok](https://ngrok.com/)
